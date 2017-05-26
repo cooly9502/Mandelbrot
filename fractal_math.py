@@ -1,6 +1,6 @@
 #makes math look neater
 sq = lambda x : x * x 
-
+#testing coords if in set function
 def testCoord(max_iter, x_in, y_in):
     #Stores original coordinates
     a, b, iteration = float(x_in), float(y_in), 1
