@@ -1,4 +1,4 @@
-from mandelbrot_math import testCoord
+from fractal_math import testCoord
 import PIL
 from PIL import Image
 import colorsys
